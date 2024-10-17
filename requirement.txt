@@ -1,0 +1,6 @@
+django
+django-widget-tweaks
+django-debug-toolbar
+django-htmx
+crispy-bootstrap5
+django-bootstrap-datepicker-plus
